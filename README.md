@@ -1,1 +1,4 @@
-# -XOR_Tensorflow_Aper-u
+# -XOR_Tensorflow_Aperçu
+
+
+Apprendre XOR avec un réseau de neurones dans Google Tensorflow 
